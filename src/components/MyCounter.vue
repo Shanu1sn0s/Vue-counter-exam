@@ -119,6 +119,7 @@
     height: 50px;
     cursor: pointer;
     margin: 10px auto;
+    text-align: center;
   }
   
   .counter__button:hover {
