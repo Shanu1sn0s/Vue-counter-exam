@@ -51,12 +51,12 @@
   
   <style>
   body{
-    background-image: linear-gradient(43deg, #4158D0 0%, #C850C0 50%, #FFCC70 100%);
- ;
+   background-color: rgb(7, 7, 27);
   }
   .counter {
     transition: 600ms;
-   
+    background-color: rgb(39, 158, 197)
+ ;
     /* border:1px solid red ; */
     border-radius: 12px;
     display: grid;
@@ -112,7 +112,8 @@
   .counter__button {
     font-size: 2rem;
     color: white;
-    background-color: #4d4d4d;
+    background-color: rgb(46, 55, 105);
+    box-shadow: 1px 1px 1px black;
     border: none;
     border-radius: 50%;
     width: 50px;
